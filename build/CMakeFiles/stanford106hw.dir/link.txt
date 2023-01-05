@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/stanford106hw.dir/gameoflife/main.cpp.o -o stanford106hw   -L/usr/local/include  -Wl,-rpath,/usr/local/include -lstanford 

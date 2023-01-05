@@ -1,4 +1,7 @@
-#include <iostream>;
+#include <iostream>
+#include "basicgraph.h"
+
+
 using namespace std;
 
 int main() {

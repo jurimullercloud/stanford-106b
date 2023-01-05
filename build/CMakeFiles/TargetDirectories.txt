@@ -1,0 +1,3 @@
+/home/mirzakhan/source/repos/learning/stanford-106b/build/CMakeFiles/stanford106hw.dir
+/home/mirzakhan/source/repos/learning/stanford-106b/build/CMakeFiles/edit_cache.dir
+/home/mirzakhan/source/repos/learning/stanford-106b/build/CMakeFiles/rebuild_cache.dir
