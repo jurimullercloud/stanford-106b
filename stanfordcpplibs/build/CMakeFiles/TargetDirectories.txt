@@ -1,7 +1,0 @@
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/stanford.dir
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/edit_cache.dir
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/rebuild_cache.dir
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/list_install_components.dir
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/install.dir
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/install/local.dir
-/home/mirzakhan/source/repos/learning/stanford-106b/stanfordcpplibs/build/CMakeFiles/install/strip.dir
